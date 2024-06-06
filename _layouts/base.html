@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<style>
+    .custom-col {
+        width: 20%;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .card {
+        display: flex;
+        align-items: center;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        padding: 16px;
+        width: 350px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        margin: 10px;
+    }
+
+    .card img {
+        border-radius: 12px;
+        width: 128px;
+        height: 128px;
+        object-fit: cover;
+        margin-right: 16px;
+    }
+
+    .card .info {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card .info .name {
+        font-size: 18px;
+        font-weight: bold;
+        margin: 0;
+    }
+
+    .card .info .position {
+        font-size: 14px;
+        color: #666;
+        margin: 4px 0;
+    }
+
+    .card .info .icon {
+        display: flex;
+        align-items: center;
+        color: #1976d2;
+    }
+
+    .card .info .icon svg {
+        width: 24px;
+        height: 24px;
+        margin-right: 8px;
+    }
+</style>
+{%- include head.html -%}
+
+<body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </main>
+
+    {%- include footer.html -%}
+
+</body>
+
+</html>
