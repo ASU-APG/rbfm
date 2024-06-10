@@ -33,7 +33,7 @@ permalink: /speakers/
     <table style="border: none;">
       <tr>
         <td><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CYI6cKgAAAAJ&citpid=2" alt="Speaker 4" style="width:600px;"/></td>
-        <td><p><b>David Bau</b>: is an Assistant Professor of Computer Science at Northeastern Khoury College. His interests lie in studying the structure and interpretation of deep networks, specifically large generative models. More specifically, his recent works include interpreting these large models and how to erase or rewrite the concepts. We invite him to share what he learned from analyzing LLMs and diffusion models and what steps the community should take to responsibly build the next generation of multimodal models. </p></td>
+        <td><p><b>David Bau</b>: is an Assistant Professor of Computer Science at Northeastern Khoury College. His interests lie in studying the structure and interpretation of deep networks, specifically large generative models. More specifically, his recent works include interpreting these large models and how to erase or rewrite the concepts.</p></td>
       </tr>
     </table>
   </li>
