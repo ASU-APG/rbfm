@@ -4,7 +4,16 @@ title: Call For Papers
 permalink: /call_for_paper/
 ---
 
-We invite the submissions in the area of multi-modal foundational models and resonsibilty but not limited to:
+We invite submissions of three types: 
+1. Position or opinions papers on the topic of workshop (<4 pages),
+2. Ongoing and unpublished work as extended abstracts (<4 pages),
+3. Novel research focuses on the various aspects of responsible design of modality-specific and multimodal systems (long papers).
+
+
+# Submission site: <a>TBD</a>
+
+
+Specifically, we invite the submissions in the area of multi-modal foundational models and resonsibilty but not limited to:
 
 - Multi-modal Foundational Models (Discriminative and Generative) focusing on various modality such as Image / Video / Speech / Language (e.g., MLLMs, T2I or T2A diffusion models, etc.)
 - Reliability and security challenges
@@ -14,20 +23,14 @@ We invite the submissions in the area of multi-modal foundational models and res
 - Ethics, risks, and fairness of multi-modal models
 - Various multi-modal training/inference/evaluation efficiency aspects (e.g., handingling large resolution images/videos, long context video understanding, long-horizon high-res video generation) 
 - Other responsibility aspects such as memorization, hallucinations, copyright, etc.
-- (Special track) Creating community guidelines for responsible design of next generation of foundational models 
+- **(Special track) Creating community guidelines for responsible design of next generation of foundational models**
+- **(Special track) Position papers on the theme of the workshop**
 
 # Important Dates
 
-- Submission Deadline: August 25, 2024, AoE (UTC-12)
-- Author Notification: September 27, 2024, AoE (UTC-12)
-- Camera-ready due: October 31, 2024, AoE (UTC-12)
-
-# Submission site: <a>TBD</a>
-
-We invite submissions of three types: 
-1. Ongoing and unpublished work as extended abstracts (<4 pages) 
-2. Position or opinions papers on the topic of workshop (<4 pages),
-3. Novel research focuses on the various aspects of responsible design of modality-specific and multimodal systems (long papers).
+- Submission Deadline: August 30, 2024, AoE (UTC-12) **(hard deadline)**
+- Author Notification: October 14, 2024, AoE (UTC-12)
+- Camera-ready due: November 15, 2024, AoE (UTC-12)
 
 
 **Double-blind reviewing:** The reviewing process will be double blind. Authors are responsible for anonymizing submissions. In particular, author names,  affiliations, and acknowledgements should not be included in your submission. You should avoid providing any identifying information (even in the supplementary material).
