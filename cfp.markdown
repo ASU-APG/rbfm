@@ -10,7 +10,8 @@ We invite submissions of three types:
 3. Novel research focuses on the various aspects of responsible design of modality-specific and multimodal systems (long papers).
 
 
-# Submission site: <a>TBD</a>
+# Submission site: [https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/RBFM](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/RBFM)
+# Latex Style: <a href="../assets/NeurIPS_Workshop_RBFM_2024.zip"> Workshop Template</a>
 
 
 Specifically, we invite the submissions in the area of multi-modal foundational models and resonsibilty but not limited to:
