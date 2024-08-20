@@ -5,14 +5,14 @@ permalink: /call_for_paper/
 ---
 
 We invite submissions of three types: 
-1. Position or opinions papers on the topic of workshop (<4 pages),
-2. Ongoing and unpublished work as extended abstracts (<4 pages),
+1. Position or opinions papers on the topic of workshop (<=4 pages),
+2. Ongoing and unpublished work as extended abstracts (<=4 pages) `(under review NeurIPS submissions are allowed in this track)`,
 3. Novel research focuses on the various aspects of responsible design of modality-specific and multimodal systems (long papers).
 
 
 # Submission site: [https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/RBFM](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/RBFM)
 # Latex Style: <a href="../assets/NeurIPS_Workshop_RBFM_2024.zip"> Workshop Template</a>
-
+Note: NeurIPS checklist is not mendatory and would not be counted towards the revewing process. However, we would appreciate the having one.
 
 Specifically, we invite the submissions in the area of multi-modal foundational models and resonsibilty but not limited to:
 
