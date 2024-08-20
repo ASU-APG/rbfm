@@ -40,7 +40,8 @@ permalink: /speakers/
   <li>
     <table style="border: none;">
       <tr>
-        TBD
+        <td><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=eXKdSu0AAAAJ&citpid=6" alt="Speaker 5" style="width:600px;"/></td>
+        <td><p><b>Yanjun Qi</b>: is a Senior Manager at Bedrock Science, Amazon Web Services (AWS). She is also an associate professor of the University of Virginia, Department of Computer Science since 2013. Dr. Qi's research focuses on trustworthy deep learning, particularly trustworthy natural language processing (NLP), exploring ways to make deep learning models more reliable and interpretable. By combining her industry experience at AWS and academic expertise, Dr. Qi contributes to the development of trustworthy and robust AI systems.</p></td>
       </tr>
     </table>
   </li>
