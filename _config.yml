@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Workshop on RBFM
-email: workshop.rbfm@gmail.com, maitreya.patel@asu.edu, ckim@asu.edu
+email: workshop.rbfm@gmail.com, maitreya.patel@asu.edu, ckim79@asu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models.
 baseurl: "" # the subpath of your site, e.g. /blog
