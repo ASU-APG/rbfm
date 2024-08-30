@@ -7,7 +7,7 @@ permalink: /call_for_paper/
 We invite submissions of three types: 
 1. Position or opinions papers on the topic of workshop (<=4 pages),
 2. Ongoing and unpublished work as extended abstracts (<=4 pages) `(under review NeurIPS submissions are allowed in this track)`,
-3. Novel research focuses on the various aspects of responsible design of modality-specific and multimodal systems (long papers).
+3. Novel research focuses on the various aspects of responsible design of modality-specific and multimodal systems (long papers <=9 pages).
 
 
 # Submission site: [https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/RBFM](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/RBFM)
@@ -29,7 +29,7 @@ Specifically, we invite the submissions in the area of multi-modal foundational 
 
 # Important Dates
 
-- Submission Deadline: August 30, 2024, AoE (UTC-12) **(hard deadline)**
+- Submission Deadline: <s>August 30, 2024, AoE (UTC-12)</s> **(extended until mid-September more details soon)**
 - Author Notification: October 14, 2024, AoE (UTC-12)
 - Camera-ready due: November 15, 2024, AoE (UTC-12)
 
