@@ -29,7 +29,7 @@ Specifically, we invite the submissions in the area of multi-modal foundational 
 
 # Important Dates
 
-- Submission Deadline: <s>August 30, 2024, AoE (UTC-12)</s> **September 14, 2024, AoE (UTC-12)**
+- Submission Deadline: <s>September 14, 2024, AoE (UTC-12)</s> **Sep 20 2024 11:59AM UTC-0**
 - Author Notification: October 14, 2024, AoE (UTC-12)
 - Camera-ready due: November 15, 2024, AoE (UTC-12)
 
