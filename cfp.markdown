@@ -17,21 +17,27 @@ Note: NeurIPS checklist is not mendatory and would not be counted towards the re
 Specifically, we invite the submissions in the area of multi-modal foundational models and resonsibilty but not limited to:
 
 - Multi-modal Foundational Models (Discriminative and Generative) focusing on various modality such as Image / Video / Speech / Language (e.g., MLLMs, T2I or T2A diffusion models, etc.)
+- Unified architectures for multi-modal models
+- Agentic AI systems and human-value alignment
 - Reliability and security challenges
-- Adversarial attacks on multi-modal models
+- Adversarial attacks and backdoor attacks on multi-modal models
 - Training time strategy to ensure responsible behaviour
 - Data centric perspective for reliable models
 - Ethics, risks, and fairness of multi-modal models
-- Various multi-modal training/inference/evaluation efficiency aspects (e.g., handingling large resolution images/videos, long context video understanding, long-horizon high-res video generation) 
-- Other responsibility aspects such as memorization, hallucinations, copyright, etc.
+- Sustainable and resource-efficient model development
+- Various multi-modal training/inference/evaluation efficiency aspects (e.g., handling large resolution images/videos, long context video understanding, long-horizon high-res video generation)
+- Preemptive approaches for reliability and security
+- Early detection and prevention of harmful content generation
+- Strategies for reducing hallucinations and misinformation
+- Other responsibility aspects such as memorization, copyright, etc.
 - **(Special track) Creating community guidelines for responsible design of next generation of foundational models**
 - **(Special track) Position papers on the theme of the workshop**
 
 # Important Dates (tentative)
 
-- Submission Deadline: September 14, 2024, AoE (UTC-12)
-- Author Notification: October 14, 2024, AoE (UTC-12)
-- Camera-ready due: November 9, 2024, AoE (UTC-12)
+- Submission Deadline: August 22, 2025, AoE (UTC-12)
+- Author Notification: September 22, 2025, AoE (UTC-12)
+- Camera-ready due: October 15, 2025, AoE (UTC-12)
 
 
 **Double-blind reviewing:** The reviewing process will be double blind. Authors are responsible for anonymizing submissions. In particular, author names,  affiliations, and acknowledgements should not be included in your submission. You should avoid providing any identifying information (even in the supplementary material).

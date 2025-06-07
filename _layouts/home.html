@@ -5,7 +5,7 @@ layout: base
 <div>
     <center>
         <h1>
-            2nd Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models
+            The 2nd Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models
         </h1>
         </br>
         <h3>
@@ -22,40 +22,34 @@ layout: base
 
 <div>
     <h1 class="page-heading">Introduction</h1>
-    <p>In 2025, multimodal AI has evolved dramatically, with foundation models now seamlessly integrating text, images,
-        video, and audio to create more human-like understanding and generation capabilities. As these technologies
-        continue to transform industries from healthcare to creative arts, the need for responsible development has
-        never been more critical. Recent advancements in multimodal adaptation and generalization have opened new
-        possibilities while simultaneously presenting complex challenges that require proactive solutions.</p>
+    <p>In recent years, the importance of multimodal approaches integrating language, images, video, and audio has grown
+        exponentially, driven by their impact in various fields such as robotics. However, these technologies present
+        critical challenges in reliability and security, with LLMs producing "hallucinations" and Text-to-Image models
+        potentially generating harmful content. These challenges have become particularly evident with the release of
+        models like GPT-4o and Veo3.</p>
 
-    <p>The landscape of multimodal AI has fundamentally shifted since our last workshop. Major players like OpenAI,
-        Google, and Meta have heavily invested in multimodal capabilities, with breakthrough models like GPT-4o, SORA,
-        Imagen, and Veo2 generating
-        realistic images and videos from text, Meta's SeamlessM4T translating speech and text in real time, and many
-        more are
-        processing and integrating multiple data types simultaneously. These advancements have accelerated adoption
-        across industries, with Gartner estimating that 40% of generative AI offerings will be multimodal by 2027, up
-        from just 1% in 2023.</p>
+    <p>Current efforts to address these issues often create new challenges, leading to resource-intensive cycles of
+        problem-solving. This highlights the urgent need for preemptive and sustainable approaches in developing the
+        next generation of multimodal foundational models. It's crucial to establish robust design principles before
+        building models that can understand and generate multiple modalities.</p>
 
+    <p>Our workshop serves as a platform to unite the community in shaping responsible design principles for
+        next-generation multimodal models. <b>This year, we especially encourage discussion and research on multimodal
+            unified architectures, agentic AI systems, and human-value alignment.</b> Our focus is on early detection
+        and prevention of reliability issues, promoting security, equity, and sustainability in AI progress.</p>
 
-    <p>Our workshop aims to provide a platform for the community to establish responsible design principles for the next
-        generation of multimodal foundation models. This year's goals include::
-    </p>
+    <p>The goals of this workshop are to:</p>
 
     <ul>
-        <li><b>Explore novel design principles</b> emphasizing responsibility and sustainability in multimodal
-            generative models, aiming to reduce their extensive data and computational demands.</li>
-        <li>Establishing best practices for <b>controllability evaluation</b> that go beyond general-purpose scores to
-            assess
-            fundamental skills across modalities.</li>
-        <li>Exploring <b>multimodal test-time adaptation</b> and domain generalization techniques that enhance model
-            reliability across diverse real-world scenarios.</li>
-        <li>Developing frameworks for <b>responsible agentic multimodal systems</b> that can safely operate with greater
-            autonomy while maintaining human oversight in critical decisions.</li>
-        <li>Enhance the <b>robustness against adversarial</b> and backdoor attacks, thereby
-            securing their integrity in adversarial environments.</li>
-        <li>Identify the sources of reliability concerns, whether they stem from data quality, model
-            architecture, or pre-training strategies.</li>
+        <li>Discuss the next generation of multimodal foundational models beyond GPT-4o & Veo.</li>
+        <li>Discuss methodologies that enhance the reliability of multimodal models, tackling key issues such as
+            fairness, security, misinformation, and hallucinations.</li>
+        <li>Enhance the robustness of these models against adversarial and backdoor attacks, thereby securing their
+            integrity in adversarial environments.</li>
+        <li>Identify the sources of reliability concerns, whether they stem from data quality, model architecture, or
+            pre-training strategies.</li>
+        <li>Explore novel design principles emphasizing responsibility and sustainability in multimodal models, aiming
+            to reduce their extensive data and computational demands.</li>
     </ul>
 </div>
 
@@ -70,13 +64,67 @@ layout: base
 </br>
 </br>
 
-<!-- <div>
-    <h1 class="page-heading">Rising Stars Lightning Talks</h1>
-</div> -->
-<!-- <div>
-    <h1 class="page-heading">Panel</h1>
-</div> -->
+<div>
+    <h1 class="page-heading">Keynotes</h1>
+</div>
 
+<div class="container">
+    <div class="card">
+        <img src="https://cs.stanford.edu/~ermon/IMG_8217_s_1.jpg" alt="Stefano Ermon">
+        <div class="info">
+            <p class="name">Stefano Ermon</p>
+            <p class="position">Stanford & Inception Labs</p>
+            <a href="https://cs.stanford.edu/~ermon/" target="_blank"> Website</a>
+            <a href="https://scholar.google.com/citations?user=ogXTOZ4AAAAJ&hl=en" target="_blank"><i
+                    class="fa-brands fa-google-scholar"></i> Google Scholar</a>
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="https://xiaocw11.github.io/img/avatar_new.jpg" alt="Chaowei Xiao">
+        <div class="info">
+            <p class="name">Chaowei Xiao</p>
+            <p class="position">University of Wisconsin, Madison & Nvidia</p>
+            <a href="https://xiaocw11.github.io/" target="_blank"> Website</a>
+            <a href="https://scholar.google.com/citations?user=Juoqtj8AAAAJ&hl=en" target="_blank"><i
+                    class="fa-brands fa-google-scholar"></i> Google Scholar</a>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="card">
+        <img src="https://www.metisstrategy.com/wp-content/uploads/2022/03/Lama_Nachman.jpg.rendition.intel_.web_.480.360.jpg"
+            alt="Lama Nachman">
+        <div class="info">
+            <p class="name">Lama Nachman</p>
+            <p class="position">Intel Labs</p>
+            <a href="https://www.intel.com/content/www/us/en/research/featured-researchers/lama-nachman.html/"
+                target="_blank"> Website</a>
+            <a href="#" target="_blank"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a>
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="https://energy-based-model.github.io/reduce-reuse-recycle/materials/people/sander.png"
+            alt="Sander Dieleman">
+        <div class="info">
+            <p class="name">Sander Dieleman</p>
+            <p class="position">Google Deepmind</p>
+            <a href="https://sander.ai/" target="_blank"> Website</a>
+            <a href="https://scholar.google.com/citations?user=yNNIKJsAAAAJ" target="_blank"><i
+                    class="fa-brands fa-google-scholar"></i> Google Scholar</a>
+        </div>
+    </div>
+
+</div>
+
+
+<div>
+    <h1 class="page-heading">Panel</h1>
+</div>
+<div>
+    <h1 class="page-heading">Rising Stars Lightning Talks</h1>
+</div>
 <!-- <div>
     <br>
     <h1 class="page-heading" style="text-align: center;">Schedule</h1>
